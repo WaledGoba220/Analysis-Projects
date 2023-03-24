@@ -1,2 +1,2 @@
-# Analysis-Projects
+# Analysis-Projects 📊
 Analysis Projects (- Python -) 📈📉
