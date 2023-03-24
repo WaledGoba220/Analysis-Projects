@@ -10,4 +10,7 @@ Analysis Projects (- Python -) 📈📉
 <img src="https://morphocode.com/wp-content/uploads/2018/05/typologies.png" alt="Hello world">
 <br>
 <br>
-<img src="https://morphocode.com/wp-content/uploads/2018/05/typologies.png" alt="Hello world">
+<img src="https://ppcexpo.com/blog/wp-content/uploads/2021/10/types-of-data-visualization-charts.jpg" alt="Hello world">
+<br>
+<br>
+<img src="https://ppcexpo.com/blog/wp-content/uploads/2021/10/data-visualization-best-techniques.jpg" alt="Hello world">
